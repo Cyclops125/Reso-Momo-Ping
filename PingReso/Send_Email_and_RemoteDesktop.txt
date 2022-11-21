@@ -1,5 +1,5 @@
 Send email:
-tk: resopingsend@gmail.com
+tk: ResoAdmin@reso.vn
 mk: Beanoi1234
 
 remote desktop 13.229.223.108

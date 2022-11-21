@@ -1,0 +1,4 @@
+Error occurs at: 11/19/2022 8:30:54 PM
+Error: An exception occurred during a Ping request.
+Error URL:  bfkwejfwjkolejfw
+
